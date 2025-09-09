@@ -1,0 +1,29 @@
+{
+  "id": "el-anillo-unico-2e-grey",
+  "title": "El Anillo Unico 2E - Grey",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "system": "tor2e",
+  "authors": [
+    {
+      "name": "Grey",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "anillo-unico",
+      "label": "Anillo Unico",
+      "path": "packs/anillo-unico",
+      "type": "Adventure",
+      "system": "tor2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
