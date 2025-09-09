@@ -1,7 +1,7 @@
 {
   "id": "el-anillo-unico-2e-grey",
   "title": "El Anillo Unico 2E - Grey",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "compatibility": {
     "minimum": "12",
     "verified": "12"
@@ -25,5 +25,8 @@
         "ASSISTANT": "OWNER"
       }
     }
-  ]
+  ],
+   "url": "https://github.com/GreyCDevs/tor2-compendio-grey",
+  "anifest": "https://github.com/GreyCDevs/tor2-compendio-grey/releases/download/1.0.1/module.json", 
+  "download": "https://github.com/GreyCDevs/tor2-compendio-grey/releases/download/1.0.1/tor2-compendio-grey.zip"
 }
